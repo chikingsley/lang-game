@@ -5,3 +5,6 @@ dist
 .env
 .env.*
 !.env.example
+
+# Vendored reference repos (have their own .git, ~1GB)
+references/
